@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CV library Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.246">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="3.275" classname="uk.co.library.testsuites.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="3.480" classname="uk.co.library.testsuites.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="3.063" classname="uk.co.library.testsuites.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="2.982" classname="uk.co.library.testsuites.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="2.702" classname="uk.co.library.testsuites.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="2.705" classname="uk.co.library.testsuites.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="4.039" classname="uk.co.library.testsuites.JobSearchTest" />
+      
+</testsuite>
